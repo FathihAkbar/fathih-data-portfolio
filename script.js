@@ -103,6 +103,23 @@ const projects = [
       workflow: "Load → SQLite → SELECT → GROUP BY → HAVING → CASE WHEN → Subqueries → Visualization",
       highlights: "PS2 led platform sales, Action led genre sales, Nintendo led publisher sales, and North America had the largest regional sales."
     }
+  },
+  {
+  id: 8,
+  title: "Customer Segmentation with RFM Analysis",
+  type: "analysis",
+  typeLabel: "Customer Analytics",
+  github: "https://github.com/FathihAkbar/fathih-data-portfolio/tree/main/08-customer-segmentation-rfm",
+  description: "Segmented 4,338 customers using Recency, Frequency, and Monetary analysis to identify customer value, retention opportunities, and revenue contribution.",
+  tags: ["Python", "Pandas", "RFM", "Customer Segmentation", "EDA"],
+  metrics: [
+    {v: "4,338", l: "Customers"},
+    {v: "5", l: "Segments"}],
+  details: {
+    overview: "A customer analytics project that applies RFM analysis to transaction data to understand purchasing behavior and identify actionable customer segments.",
+    workflow: "Data Cleaning → Transaction Analysis → RFM Calculation → RFM Scoring → Customer Segmentation → Revenue Analysis → Business Recommendations",
+    highlights: "Champions represented 21.53% of customers, had the lowest average recency at 14.61 days, the highest average frequency at 11.74 orders, and the highest average monetary value at 6,697.36. The segment also generated the highest total revenue at 6,255,336.53."
+    }
   }
 ];
 
