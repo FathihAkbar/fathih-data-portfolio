@@ -1,0 +1,13 @@
+{
+    "project": "Project 19 \u2014 End-to-End Retail ETL & Analytics Pipeline",
+    "database": "retail_analytics.db",
+    "raw_rows": 1067371,
+    "final_sales_rows": 793609,
+    "fact_sales_rows": 793609,
+    "customers": 5878,
+    "products": 4631,
+    "countries": 41,
+    "total_revenue": 17685460.638,
+    "revenue_difference": 0.0,
+    "pipeline_status": "PASS"
+}
