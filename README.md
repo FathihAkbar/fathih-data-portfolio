@@ -1,686 +1,1129 @@
-# Fathih — Data & Machine Learning Portfolio
+Fathih — Data & Machine Learning Portfolio
 
 Welcome to my portfolio of data analysis, machine learning, data management, and data-driven projects.
 
-I am an engineering student interested in data science, machine learning, analytics, data management, and software development. This repository documents my progression from exploratory data analysis and SQL to predictive modeling, customer analytics, natural language processing, time series forecasting, fraud detection, recommendation systems, predictive maintenance, uplift modeling, data quality, and data observability.
+I am an engineering student interested in data science, machine learning, analytics, data management, data engineering, business intelligence, and software development. This repository documents my progression from exploratory data analysis and SQL to predictive modeling, customer analytics, natural language processing, time series forecasting, fraud detection, recommendation systems, predictive maintenance, uplift modeling, data quality, data observability, customer lifetime value, ETL and data warehousing, and market basket analysis.
 
-Each project focuses on a different problem-solving approach, from understanding patterns in raw data to developing machine learning models, monitoring data quality, detecting distribution changes, optimizing decisions, and translating analytical results into practical insights.
+Each project focuses on a different problem-solving approach, from understanding patterns in raw data to developing predictive models, designing analytical pipelines, monitoring data quality and drift, estimating customer value, mining product associations, optimizing decisions, and translating analytical results into practical insights.
 
----
+Skills
 
-## Skills
+Programming & Data Analysis
 
-### Programming & Data Analysis
+Python
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Feature Engineering
-- Statistical Analysis
-- Data Profiling
-- Data Visualization
+Pandas
 
-### Machine Learning
+NumPy
 
-- Scikit-learn
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- XGBoost
-- Classification
-- Regression
-- Hyperparameter Tuning
-- Cross Validation
-- Time-Series Cross Validation
-- Threshold Optimization
-- Model Evaluation
-- Feature Importance
-- Anomaly Detection
-- Predictive Maintenance
-- Uplift Modeling
+Matplotlib
 
-### Data Science & Analytics
+Seaborn
 
-- Customer Churn Prediction
-- Customer Segmentation
-- RFM Analysis
-- Risk Scoring
-- Time Series Forecasting
-- Fraud Detection
-- Recommendation Systems
-- Collaborative Filtering
-- Treatment Effect Analysis
-- Campaign Targeting
-- Incremental Conversion Analysis
-- Business Analytics
+Exploratory Data Analysis (EDA)
 
-### Natural Language Processing
+Data Cleaning
 
-- Text Preprocessing
-- TF-IDF
-- N-gram Features
-- Sentiment Analysis
-- Logistic Regression for NLP
-- Naive Bayes
-- Linear SVM
-- Hyperparameter Tuning
-- Error Analysis
-- Feature Interpretation
+Feature Engineering
 
-### Data Management & Data Observability
+Statistical Analysis
 
-- Data Quality Assessment
-- Data Profiling
-- Data Validation
-- Data Quality Scoring
-- Statistical Outlier Detection
-- Isolation Forest
-- Data Drift Detection
-- Population Stability Index (PSI)
-- Kolmogorov–Smirnov Test
-- Chi-Square Test
-- Total Variation Distance (TVD)
-- Drift Monitoring
-- Automated Alerting
-- Data Remediation
-- Multi-Batch Monitoring
-- Data Observability
+Data Profiling
 
-### SQL & Database
+Data Visualization
 
-- SQL
-- SQLite
-- SELECT
-- GROUP BY
-- HAVING
-- CASE WHEN
-- Subqueries
-- Aggregation
-- Business Data Analysis
+Machine Learning
 
-### Tools
+Scikit-learn
 
-- Google Colab
-- Jupyter Notebook
-- VS Code
-- Git
-- GitHub
+Logistic Regression
 
----
+Decision Tree
 
-# Projects
+Random Forest
 
-| # | Project | Category |
-|---|---|---|
-| 1 | [Student Performance Analysis](./01-student-performance) | Exploratory Data Analysis |
-| 2 | [Supermarket Sales Analysis](./02-supermarket-sales) | Business Analysis |
-| 3 | [Spotify Music Analysis](./03-spotify-analysis) | Exploratory Data Analysis |
-| 4 | [Netflix Movies & TV Shows](./04-netflix-analysis) | Exploratory Data Analysis |
-| 5 | [Titanic Survival Prediction](./05-titanic-survival) | Classification |
-| 6 | [House Price Prediction](./06-house-price) | Regression |
-| 7 | [Video Game Sales SQL Analysis](./07-video-game-sales) | SQL & Data Analysis |
-| 8 | [Customer Segmentation with RFM Analysis](./08-customer-segmentation) | Customer Analytics |
-| 9 | [Customer Churn Prediction](./09-customer-churn-prediction) | Predictive Data Science |
-| 10 | [Retail Sales Forecasting](./10-retail-sales-forecasting) | Time Series Forecasting |
-| 11 | [Amazon Customer Review Sentiment Analysis](./11-amazon-sentiment-analysis) | NLP |
-| 12 | [Credit Card Fraud Detection](./12-credit-card-fraud-detection) | Imbalanced Classification |
-| 13 | [Movie Recommendation System](./13-movie-recommendation) | Recommendation System |
-| 14 | [Predictive Maintenance — Machine Failure Detection](./14-predictive-maintenance) | Predictive Maintenance |
-| 15 | [Marketing Campaign Uplift Modeling](./15-marketing-uplift-modeling) | Uplift Modeling |
-| 16 | [Financial Customer Data Quality & Anomaly Monitoring](./16-financial-data-quality) | Data Quality & Anomaly Detection |
-| 17 | [Financial Data Drift & Pipeline Monitoring](./17-financial-data-drift-monitoring) | Data Observability |
+XGBoost
 
----
+Classification
 
-# Project Details
+Regression
 
-## 01 — Student Performance Analysis
+Hyperparameter Tuning
+
+Cross Validation
+
+Time-Series Cross Validation
+
+Threshold Optimization
+
+Model Evaluation
+
+Feature Importance
+
+Anomaly Detection
+
+Predictive Maintenance
+
+Uplift Modeling
+
+Customer Lifetime Value (CLV)
+
+Two-Stage Modeling
+
+FP-Growth
+
+Association Rule Mining
+
+Cross-Sell Recommendation
+
+Scenario-Based Business Simulation
+
+Data Science & Analytics
+
+Customer Churn Prediction
+
+Customer Segmentation
+
+RFM Analysis
+
+Risk Scoring
+
+Time Series Forecasting
+
+Fraud Detection
+
+Recommendation Systems
+
+Collaborative Filtering
+
+Treatment Effect Analysis
+
+Campaign Targeting
+
+Incremental Conversion Analysis
+
+Business Analytics
+
+Customer Lifetime Value (CLV)
+
+Customer Revenue Concentration
+
+ETL Pipeline Design
+
+Star Schema
+
+Data Warehousing
+
+Market Basket Analysis
+
+Cross-Sell Intelligence
+
+Natural Language Processing
+
+Text Preprocessing
+
+TF-IDF
+
+N-gram Features
+
+Sentiment Analysis
+
+Logistic Regression for NLP
+
+Naive Bayes
+
+Linear SVM
+
+Hyperparameter Tuning
+
+Error Analysis
+
+Feature Interpretation
+
+Data Management & Data Observability
+
+Data Quality Assessment
+
+Data Profiling
+
+Data Validation
+
+Data Quality Scoring
+
+Statistical Outlier Detection
+
+Isolation Forest
+
+Data Drift Detection
+
+Population Stability Index (PSI)
+
+Kolmogorov–Smirnov Test
+
+Chi-Square Test
+
+Total Variation Distance (TVD)
+
+Drift Monitoring
+
+Automated Alerting
+
+Data Remediation
+
+Multi-Batch Monitoring
+
+Data Observability
+
+ETL Validation
+
+Data Lineage Awareness
+
+Pipeline Reconciliation
+
+Multi-Stage Data Processing
+
+SQL & Database
+
+SQL
+
+SQLite
+
+SELECT
+
+GROUP BY
+
+HAVING
+
+CASE WHEN
+
+Subqueries
+
+Aggregation
+
+Common Table Expressions (CTE)
+
+Window Functions
+
+ROW_NUMBER
+
+RANK
+
+NTILE
+
+LAG
+
+SUM() OVER()
+
+Business Data Analysis
+
+Tools
+
+Google Colab
+
+Jupyter Notebook
+
+VS Code
+
+Git
+
+GitHub
+
+mlxtend
+
+Projects
+
+#
+
+Project
+
+Category
+
+1
+
+Student Performance Analysis
+
+Exploratory Data Analysis
+
+2
+
+Supermarket Sales Analysis
+
+Business Analysis
+
+3
+
+Spotify Music Analysis
+
+Exploratory Data Analysis
+
+4
+
+Netflix Movies & TV Shows
+
+Exploratory Data Analysis
+
+5
+
+Titanic Survival Prediction
+
+Classification
+
+6
+
+House Price Prediction
+
+Regression
+
+7
+
+Video Game Sales SQL Analysis
+
+SQL & Data Analysis
+
+8
+
+Customer Segmentation with RFM Analysis
+
+Customer Analytics
+
+9
+
+Customer Churn Prediction
+
+Predictive Data Science
+
+10
+
+Retail Sales Forecasting
+
+Time Series Forecasting
+
+11
+
+Amazon Customer Review Sentiment Analysis
+
+NLP
+
+12
+
+Credit Card Fraud Detection
+
+Imbalanced Classification
+
+13
+
+Movie Recommendation System
+
+Recommendation System
+
+14
+
+Predictive Maintenance — Machine Failure Detection
+
+Predictive Maintenance
+
+15
+
+Marketing Campaign Uplift Modeling
+
+Uplift Modeling
+
+16
+
+Financial Customer Data Quality & Anomaly Monitoring
+
+Data Quality & Anomaly Detection
+
+17
+
+Financial Data Drift & Pipeline Monitoring
+
+Data Observability
+
+18
+
+Customer Lifetime Value Prediction
+
+Customer Analytics & Predictive Modeling
+
+19
+
+End-to-End Retail ETL & Analytics Pipeline
+
+ETL, Data Warehousing & SQL Analytics
+
+20
+
+Market Basket Analysis & Cross-Sell Intelligence
+
+Association Mining & Business Intelligence
+
+Project Details
+
+01 — Student Performance Analysis
 
 Exploratory data analysis project focused on understanding patterns in student academic performance.
 
-### Main Topics
+Main Topics
 
-- Data cleaning
-- Exploratory analysis
-- Data visualization
-- Academic performance analysis
-- Statistical analysis
+Data cleaning
+
+Exploratory analysis
+
+Data visualization
+
+Academic performance analysis
+
+Statistical analysis
 
 The project focuses on identifying patterns and relationships that may influence student academic outcomes.
 
----
-
-## 02 — Supermarket Sales Analysis
+02 — Supermarket Sales Analysis
 
 Business-oriented analysis of supermarket transactions to identify patterns in branches, products, customers, payment methods, and transaction time.
 
-### Main Topics
+Main Topics
 
-- Business KPIs
-- Product analysis
-- Customer analysis
-- Payment analysis
-- Time-based analysis
-- Revenue analysis
+Business KPIs
+
+Product analysis
+
+Customer analysis
+
+Payment analysis
+
+Time-based analysis
+
+Revenue analysis
 
 The project translates transaction-level data into business-oriented insights.
 
----
-
-## 03 — Spotify Music Analysis
+03 — Spotify Music Analysis
 
 Large-scale exploratory analysis of Spotify tracks to examine popularity, genres, artists, and audio characteristics.
 
-### Main Topics
+Main Topics
 
-- Large dataset analysis
-- Genre analysis
-- Artist analysis
-- Correlation analysis
-- Audio feature exploration
-- Popularity analysis
+Large dataset analysis
+
+Genre analysis
+
+Artist analysis
+
+Correlation analysis
+
+Audio feature exploration
+
+Popularity analysis
 
 The project explores relationships between track characteristics and popularity.
 
----
-
-## 04 — Netflix Movies & TV Shows
+04 — Netflix Movies & TV Shows
 
 Analysis of Netflix content across content type, release trends, countries, ratings, genres, and durations.
 
-### Main Topics
+Main Topics
 
-- Time trend analysis
-- Content analysis
-- Genre analysis
-- Country analysis
-- Rating analysis
-- Exploratory visualization
+Time trend analysis
+
+Content analysis
+
+Genre analysis
+
+Country analysis
+
+Rating analysis
+
+Exploratory visualization
 
 The project analyzes how Netflix's content library is distributed and how its catalog has evolved over time.
 
----
-
-## 05 — Titanic Survival Prediction
+05 — Titanic Survival Prediction
 
 Classification project predicting passenger survival using demographic and travel-related features.
 
-### Models Evaluated
+Models Evaluated
 
-- Logistic Regression
-- Decision Tree
+Logistic Regression
 
-### Main Topics
+Decision Tree
 
-- Classification
-- Data preprocessing
-- Categorical encoding
-- Model evaluation
-- Confusion matrix
-- Feature interpretation
+Main Topics
+
+Classification
+
+Data preprocessing
+
+Categorical encoding
+
+Model evaluation
+
+Confusion matrix
+
+Feature interpretation
 
 The project introduces fundamental supervised learning concepts and classification evaluation.
 
----
-
-## 06 — House Price Prediction
+06 — House Price Prediction
 
 Regression project predicting residential property prices using housing characteristics.
 
-### Models Evaluated
+Models Evaluated
 
-- Linear Regression
-- Random Forest
+Linear Regression
 
-### Main Topics
+Random Forest
 
-- Regression
-- Feature selection
-- Model comparison
-- MAE
-- RMSE
-- R²
-- Feature importance
+Main Topics
+
+Regression
+
+Feature selection
+
+Model comparison
+
+MAE
+
+RMSE
+
+R²
+
+Feature importance
 
 The project evaluates different regression approaches and compares their predictive performance.
 
----
-
-## 07 — Video Game Sales SQL Analysis
+07 — Video Game Sales SQL Analysis
 
 SQL-based analysis of video game sales across platforms, genres, publishers, regions, and years.
 
-### Main Topics
+Main Topics
 
-- SQLite
-- SELECT
-- GROUP BY
-- HAVING
-- CASE WHEN
-- Subqueries
-- Aggregation
-- Business insights
+SQLite
+
+SELECT
+
+GROUP BY
+
+HAVING
+
+CASE WHEN
+
+Subqueries
+
+Aggregation
+
+Business insights
 
 The project focuses on extracting business insights directly from structured data using SQL.
 
----
-
-## 08 — Customer Segmentation with RFM Analysis
+08 — Customer Segmentation with RFM Analysis
 
 Customer segmentation project using Recency, Frequency, and Monetary analysis to identify customer behavior and value.
 
 The analysis produced customer segments such as:
 
-- Champions
-- Loyal Customers
-- Potential Loyalists
-- Need Attention
-- At Risk
+Champions
 
-### Main Topics
+Loyal Customers
 
-- RFM analysis
-- Customer segmentation
-- Customer value analysis
-- Behavioral profiling
-- Business recommendations
+Potential Loyalists
+
+Need Attention
+
+At Risk
+
+Main Topics
+
+RFM analysis
+
+Customer segmentation
+
+Customer value analysis
+
+Behavioral profiling
+
+Business recommendations
 
 The project demonstrates how customer transaction history can be transformed into actionable customer segments.
 
----
-
-## 09 — Customer Churn Prediction
+09 — Customer Churn Prediction
 
 Machine learning project designed to predict customers who are likely to churn.
 
-### Models Evaluated
+Models Evaluated
 
-- Logistic Regression
-- Random Forest
-- XGBoost
+Logistic Regression
 
-### Main Topics
+Random Forest
 
-- Feature engineering
-- Cross-validation
-- Hyperparameter tuning
-- Threshold optimization
-- Feature importance
-- Customer risk scoring
+XGBoost
+
+Main Topics
+
+Feature engineering
+
+Cross-validation
+
+Hyperparameter tuning
+
+Threshold optimization
+
+Feature importance
+
+Customer risk scoring
 
 The final risk profiling separates customers into:
 
-- High Risk
-- Medium Risk
-- Low Risk
+High Risk
+
+Medium Risk
+
+Low Risk
 
 This supports customer retention strategies by prioritizing customers who are more likely to churn.
 
----
-
-## 10 — Retail Sales Forecasting
+10 — Retail Sales Forecasting
 
 Time series forecasting project using historical retail sales data to predict future weekly sales.
 
-### Models Evaluated
+Models Evaluated
 
-- Naive Forecast
-- Random Forest
-- XGBoost
+Naive Forecast
 
-### Main Topics
+Random Forest
 
-- Time-based feature engineering
-- Lag features
-- Rolling features
-- Chronological train-test splitting
-- Time-series cross-validation
-- Forecast error analysis
-- Feature importance
+XGBoost
 
-### Final Model Performance
+Main Topics
+
+Time-based feature engineering
+
+Lag features
+
+Rolling features
+
+Chronological train-test splitting
+
+Time-series cross-validation
+
+Forecast error analysis
+
+Feature importance
+
+Final Model Performance
 
 The final Random Forest model achieved:
 
-- MAE: **1,226.88**
-- RMSE: **2,537.04**
-- R²: **0.9868**
+MAE: 1,226.88
 
-The analysis identified `Lag_52` as the dominant feature with approximately **80.25% feature importance**, highlighting the importance of annual sales patterns.
+RMSE: 2,537.04
 
----
+R²: 0.9868
 
-## 11 — Amazon Customer Review Sentiment Analysis
+The analysis identified Lag_52 as the dominant feature with approximately 80.25% feature importance, highlighting the importance of annual sales patterns.
+
+11 — Amazon Customer Review Sentiment Analysis
 
 Natural Language Processing project classifying customer reviews into positive and negative sentiment.
 
-### Models Evaluated
+Models Evaluated
 
-- Logistic Regression
-- Naive Bayes
-- Linear SVM
-- Tuned Logistic Regression
+Logistic Regression
 
-### Main Topics
+Naive Bayes
 
-- Text cleaning
-- TF-IDF
-- Unigram and bigram features
-- Hyperparameter tuning
-- Confusion matrix
-- Error analysis
-- Feature interpretation
+Linear SVM
 
-### Final Model Performance
+Tuned Logistic Regression
+
+Main Topics
+
+Text cleaning
+
+TF-IDF
+
+Unigram and bigram features
+
+Hyperparameter tuning
+
+Confusion matrix
+
+Error analysis
+
+Feature interpretation
+
+Final Model Performance
 
 The final tuned Logistic Regression model achieved:
 
-- Accuracy: **91.59%**
-- Precision: **91.93%**
-- Recall: **91.38%**
-- F1-Score: **91.65%**
+Accuracy: 91.59%
+
+Precision: 91.93%
+
+Recall: 91.38%
+
+F1-Score: 91.65%
 
 The project also analyzes false positives, false negatives, and influential positive and negative terms.
 
----
-
-## 12 — Credit Card Fraud Detection
+12 — Credit Card Fraud Detection
 
 Machine learning project focused on detecting fraudulent transactions under severe class imbalance.
 
-### Models Evaluated
+Models Evaluated
 
-- Logistic Regression
-- Balanced Logistic Regression
-- Random Forest
-- XGBoost
+Logistic Regression
 
-### Main Topics
+Balanced Logistic Regression
 
-- Class imbalance
-- Precision-Recall analysis
-- PR-AUC
-- ROC-AUC
-- Threshold optimization
-- Feature importance
-- Fraud risk scoring
-- Confusion matrix
-- Business trade-offs
+Random Forest
 
-### Final XGBoost Performance
+XGBoost
+
+Main Topics
+
+Class imbalance
+
+Precision-Recall analysis
+
+PR-AUC
+
+ROC-AUC
+
+Threshold optimization
+
+Feature importance
+
+Fraud risk scoring
+
+Confusion matrix
+
+Business trade-offs
+
+Final XGBoost Performance
 
 The final XGBoost model achieved approximately:
 
-- Accuracy: **99.95%**
-- Precision: **92.86%**
-- Recall: **79.59%**
-- F1-Score: **85.71%**
-- ROC-AUC: **97.99%**
-- PR-AUC: **87.94%**
+Accuracy: 99.95%
+
+Precision: 92.86%
+
+Recall: 79.59%
+
+F1-Score: 85.71%
+
+ROC-AUC: 97.99%
+
+PR-AUC: 87.94%
 
 The project also develops fraud risk profiles and evaluates the impact of classification threshold selection.
 
----
-
-## 13 — Movie Recommendation System
+13 — Movie Recommendation System
 
 Recommendation system project using collaborative filtering on the MovieLens dataset.
 
-### Approaches Evaluated
+Approaches Evaluated
 
-- Popularity Baseline
-- User-Based Collaborative Filtering
-- Item-Based Collaborative Filtering
+Popularity Baseline
 
-### Evaluation Metrics
+User-Based Collaborative Filtering
 
-- Precision@10
-- Recall@10
+Item-Based Collaborative Filtering
 
-### Final Results
+Evaluation Metrics
+
+Precision@10
+
+Recall@10
+
+Final Results
 
 User-Based Collaborative Filtering achieved the strongest overall performance:
 
-- Precision@10: **0.010946**
-- Recall@10: **0.109458**
+Precision@10: 0.010946
+
+Recall@10: 0.109458
 
 The project demonstrates how user-item interaction data can be transformed into personalized recommendations.
 
----
-
-## 14 — Predictive Maintenance — Machine Failure Detection
+14 — Predictive Maintenance — Machine Failure Detection
 
 Machine learning project designed to identify potential industrial machine failures using operational sensor data.
 
-### Dataset Features
+Dataset Features
 
 The dataset contains manufacturing-related variables such as:
 
-- Air temperature
-- Process temperature
-- Rotational speed
-- Torque
-- Tool wear
-- Machine type
+Air temperature
+
+Process temperature
+
+Rotational speed
+
+Torque
+
+Tool wear
+
+Machine type
 
 Feature engineering was used to create additional operational variables, including:
 
-- Temperature difference
-- Torque-speed product
+Temperature difference
 
-### Models Evaluated
+Torque-speed product
 
-- Logistic Regression
-- Balanced Logistic Regression
-- Random Forest
-- XGBoost
+Models Evaluated
 
-### Model Comparison
+Logistic Regression
 
-| Model | Accuracy | Precision | Recall | F1 | ROC-AUC | PR-AUC |
-|---|---:|---:|---:|---:|---:|---:|
-| Logistic Regression | 0.9675 | 0.5714 | 0.1765 | 0.2697 | 0.9255 | 0.4613 |
-| Balanced Logistic Regression | 0.8590 | 0.1777 | 0.8676 | 0.2950 | 0.9339 | 0.4657 |
-| **Random Forest** | **0.9910** | **0.9310** | **0.7941** | **0.8571** | **0.9628** | **0.8656** |
-| XGBoost | 0.9875 | 0.8116 | 0.8235 | 0.8175 | 0.9790 | **0.8741** |
+Balanced Logistic Regression
+
+Random Forest
+
+XGBoost
+
+Model Comparison
+
+Model
+
+Accuracy
+
+Precision
+
+Recall
+
+F1
+
+ROC-AUC
+
+PR-AUC
+
+Logistic Regression
+
+0.9675
+
+0.5714
+
+0.1765
+
+0.2697
+
+0.9255
+
+0.4613
+
+Balanced Logistic Regression
+
+0.8590
+
+0.1777
+
+0.8676
+
+0.2950
+
+0.9339
+
+0.4657
+
+Random Forest
+
+0.9910
+
+0.9310
+
+0.7941
+
+0.8571
+
+0.9628
+
+0.8656
+
+XGBoost
+
+0.9875
+
+0.8116
+
+0.8235
+
+0.8175
+
+0.9790
+
+0.8741
 
 Random Forest achieved the strongest F1-Score, Precision, and overall balanced classification performance, while XGBoost achieved the highest ROC-AUC and PR-AUC.
 
 The project also develops machine risk profiling:
 
-- High Risk
-- Medium Risk
-- Low Risk
+High Risk
+
+Medium Risk
+
+Low Risk
 
 This demonstrates how machine learning can support predictive maintenance and industrial risk monitoring.
 
----
-
-## 15 — Marketing Campaign Uplift Modeling
+15 — Marketing Campaign Uplift Modeling
 
 Uplift modeling project designed to identify customers who are most likely to change their behavior as a result of a marketing treatment.
 
-Unlike conventional response prediction, this project focuses on estimating the **incremental effect of treatment** for individual customers.
+Unlike conventional response prediction, this project focuses on estimating the incremental effect of treatment for individual customers.
 
-### Models Evaluated
+Models Evaluated
 
-- S-Learner
-- T-Learner
+S-Learner
 
-### Evaluation Metrics
+T-Learner
 
-- Qini AUC
-- AUUC
-- Uplift@K
-- Incremental Conversion
-- Campaign Targeting Efficiency
+Evaluation Metrics
 
-### Campaign Effect
+Qini AUC
+
+AUUC
+
+Uplift@K
+
+Incremental Conversion
+
+Campaign Targeting Efficiency
+
+Campaign Effect
 
 The treatment group achieved:
 
-- Conversion Rate: **0.3099%**
+Conversion Rate: 0.3099%
 
 The control group achieved:
 
-- Conversion Rate: **0.1935%**
+Conversion Rate: 0.1935%
 
 This resulted in:
 
-- Average Treatment Effect: **0.001164**
-- Absolute Lift: **0.1164 percentage points**
-- Relative Lift: **60.16%**
+Average Treatment Effect: 0.001164
 
-### Uplift Model Comparison
+Absolute Lift: 0.1164 percentage points
 
-| Model | Qini AUC | AUUC |
-|---|---:|---:|
-| **S-Learner** | **0.150472** | **0.004840** |
-| T-Learner | 0.140386 | 0.004524 |
+Relative Lift: 60.16%
+
+Uplift Model Comparison
+
+Model
+
+Qini AUC
+
+AUUC
+
+S-Learner
+
+0.150472
+
+0.004840
+
+T-Learner
+
+0.140386
+
+0.004524
 
 S-Learner was selected as the final uplift model.
 
-### Final Targeting Strategy
+Final Targeting Strategy
 
-The top **10% of customers** ranked by predicted uplift captured approximately:
+The top 10% of customers ranked by predicted uplift captured approximately:
 
-**77.13% of total predicted uplift**
+77.13% of total predicted uplift
 
 while targeting only 10% of the evaluated population.
 
 The project demonstrates how uplift modeling can move marketing optimization beyond response prediction toward treatment-effect estimation and targeted campaign decision-making.
 
----
-
-## 16 — Financial Customer Data Quality & Anomaly Monitoring
+16 — Financial Customer Data Quality & Anomaly Monitoring
 
 Data management project designed to assess the quality of financial customer data using a combination of traditional data quality checks, statistical analysis, and machine learning anomaly detection.
 
-### Main Components
+Main Components
 
-- Data profiling
-- Completeness assessment
-- Uniqueness assessment
-- Business-rule validation
-- Statistical outlier detection
-- Isolation Forest
-- Data quality scoring
-- Issue prioritization
-- Automated monitoring
-- Data remediation
+Data profiling
 
-### Dataset
+Completeness assessment
+
+Uniqueness assessment
+
+Business-rule validation
+
+Statistical outlier detection
+
+Isolation Forest
+
+Data quality scoring
+
+Issue prioritization
+
+Automated monitoring
+
+Data remediation
+
+Dataset
 
 The final dataset contained:
 
-- **45,211 records**
-- **17 fields**
-- **0 missing values**
-- **0 duplicate records**
+45,211 records
 
-### Data Quality Score
+17 fields
 
-| Dimension | Score |
-|---|---:|
-| Completeness | 100.00 |
-| Uniqueness | 100.00 |
-| Validity | 100.00 |
-| Outlier-Free Rate | 91.14 |
-| **Overall Quality** | **98.23 / 100** |
+0 missing values
 
-### Machine Learning Anomaly Detection
+0 duplicate records
+
+Data Quality Score
+
+Dimension
+
+Score
+
+Completeness
+
+100.00
+
+Uniqueness
+
+100.00
+
+Validity
+
+100.00
+
+Outlier-Free Rate
+
+91.14
+
+Overall Quality
+
+98.23 / 100
+
+Machine Learning Anomaly Detection
 
 Isolation Forest identified:
 
-- Normal Records: **44,306**
-- Potential Anomalies: **905**
-- Anomaly Rate: **2.00%**
+Normal Records: 44,306
+
+Potential Anomalies: 905
+
+Anomaly Rate: 2.00%
 
 The strongest statistical outlier concentrations were observed in:
 
-- `previous`
-- `pdays`
-- `balance`
-- `duration`
-- `campaign`
+previous
+
+pdays
+
+balance
+
+duration
+
+campaign
 
 Importantly, statistical outliers were treated as observations requiring investigation rather than automatically classified as invalid records.
 
-### Automated Remediation
+Automated Remediation
 
 A synthetic corruption experiment introduced:
 
-- 100 missing values
-- 50 duplicate records
-- 50 invalid age values
+100 missing values
+
+50 duplicate records
+
+50 invalid age values
 
 The remediation workflow successfully reduced all simulated issues to zero.
 
 This project demonstrates an enterprise-oriented approach to data quality management, anomaly monitoring, issue prioritization, and automated remediation.
 
----
-
-## 17 — Financial Data Drift & Pipeline Monitoring
+17 — Financial Data Drift & Pipeline Monitoring
 
 Data observability project designed to monitor changes in financial customer data distributions across multiple data batches.
 
-This project extends the data quality concepts from Project 16 by focusing on **distributional changes over time**.
+This project extends the data quality concepts from Project 16 by focusing on distributional changes over time.
 
-### Main Components
+Main Components
 
-- Schema monitoring
-- Data integrity monitoring
-- Population Stability Index (PSI)
-- Kolmogorov–Smirnov Test
-- Total Variation Distance (TVD)
-- Chi-Square Test
-- Unified drift monitoring
-- Automated drift alerting
-- Distribution visualization
-- Multi-batch monitoring
-- Drift trend analysis
+Schema monitoring
 
-### Numerical Drift
+Data integrity monitoring
+
+Population Stability Index (PSI)
+
+Kolmogorov–Smirnov Test
+
+Total Variation Distance (TVD)
+
+Chi-Square Test
+
+Unified drift monitoring
+
+Automated drift alerting
+
+Distribution visualization
+
+Multi-batch monitoring
+
+Drift trend analysis
+
+Numerical Drift
 
 The strongest numerical drift was observed in:
 
-`campaign`
+campaign
 
 with:
 
-- PSI: **0.1547**
-- KS Statistic: **0.1929**
+PSI: 0.1547
+
+KS Statistic: 0.1929
 
 This feature was classified as moderate drift under the project's operational thresholds.
 
 Additional statistically significant numerical drift was detected in:
 
-- `balance`
-- `duration`
+balance
 
-### Categorical Drift
+duration
+
+Categorical Drift
 
 The strongest categorical drift occurred in:
 
-- `loan`
-- `housing`
+loan
 
-| Feature | TVD | Drift Level |
-|---|---:|---|
-| **loan** | **0.12395** | **High** |
-| **housing** | **0.10705** | **High** |
+housing
+
+Feature
+
+TVD
+
+Drift Level
+
+loan
+
+0.12395
+
+High
+
+housing
+
+0.10705
+
+High
 
 Both features also showed statistically significant distribution differences.
 
-### Unified Drift Monitoring
+Unified Drift Monitoring
 
 The monitoring system classified features into:
 
-```text
 PASS
 INVESTIGATE
 MODERATE ALERT
@@ -725,9 +1168,509 @@ TVD + Chi-Square
 
 This combination provides both practical and statistical perspectives when evaluating data drift.
 
+## 18 — Customer Lifetime Value Prediction
+
+Predictive customer analytics project designed to estimate future customer value and prioritize customers based on predicted lifetime value.
+
+The project uses the Online Retail II transaction dataset and constructs historical customer behavior features before predicting future customer revenue.
+
+### Main Components
+
+- Customer-level feature engineering
+- Recency, Frequency, and Monetary behavior
+- Total Quantity
+- Unique Products
+- Average Order Value
+- Customer Age
+- Future Revenue Target
+- Log-transformed target
+- Two-stage modeling
+- Customer ranking
+- CLV segmentation
+- Revenue concentration analysis
+
+### Modeling Strategy
+
+Because future revenue contains a substantial number of zero values, the project uses a two-stage modeling strategy:
+
+```text
+Stage 1 — Future Purchase Prediction
+        ↓
+Random Forest
+        ↓
+Stage 2 — Conditional Future Revenue
+        ↓
+Gradient Boosting
+        ↓
+Predicted Customer Lifetime Value
+
+Key Results
+
+Historical customers: 5,438
+
+Customers with future purchases: 2,120
+
+Positive future-purchase rate: 38.98%
+
+Stage 1 best model: Random Forest
+
+Stage 1 ROC-AUC: 0.8106
+
+Stage 2 best model: Gradient Boosting
+
+Stage 2 MAE: 501.79
+
+Stage 2 RMSE: 2,219.68
+
+Stage 2 R²: 0.6895
+
+Final CLV R²: 0.5889
+
+Final CLV RMSE: 1,575.68
+
+Top 10% revenue capture: 58.78%
+
+Top 10% lift vs random: 5.88×
+
+Spearman ranking correlation: 0.5226
+
+Customer Segmentation
+
+Customers were segmented into:
+
+Low Value
+
+Medium Value
+
+High Value
+
+VIP Value
+
+The High + VIP segments represented 50% of the evaluated customer population and accounted for approximately 91.89% of actual future revenue.
+
+Business Application
+
+Predicted CLV can be used to prioritize customer retention, personalized engagement, cross-selling, premium service, and high-value customer campaigns.
+
+19 — End-to-End Retail ETL & Analytics Pipeline
+
+End-to-end data engineering and analytics project designed to transform raw retail transactions into a validated analytical warehouse and reusable SQL analytics layer.
+
+The project focuses on the complete data lifecycle:
+
+Extraction
+    ↓
+Transformation
+    ↓
+Data Quality Gate
+    ↓
+Star Schema
+    ↓
+SQLite Warehouse
+    ↓
+SQL Analytics
+    ↓
+Advanced SQL
+    ↓
+Executive Analytics
+    ↓
+Pipeline Audit
+
+Main Components
+
+Multi-sheet data extraction
+
+Data cleaning and standardization
+
+Customer ID validation
+
+Duplicate removal
+
+Cancellation filtering
+
+Transaction validation
+
+Revenue calculation
+
+Data quality gates
+
+Star schema modeling
+
+Fact and dimension tables
+
+SQLite data warehouse
+
+Revenue reconciliation
+
+SQL business analytics
+
+Advanced SQL analysis
+
+Executive dashboard
+
+Final pipeline audit
+
+Data Preparation
+
+The source dataset contained:
+
+1,067,371 raw records
+
+243,007 missing Customer IDs
+
+11,998 duplicate rows removed
+
+18,688 cancellations identified
+
+18,688 invalid-quantity rows
+
+71 invalid-price rows
+
+The final validated sales layer contained:
+
+793,609 transaction lines
+
+5,878 customers
+
+4,631 products
+
+41 countries
+
+17,685,460.64 total revenue
+
+Star Schema
+
+                 dim_customer
+                      │
+                      │
+dim_date ─────── fact_sales ─────── dim_product
+                      │
+                      │
+                 dim_country
+
+Warehouse tables:
+
+fact_sales
+
+dim_customer
+
+dim_product
+
+dim_date
+
+dim_country
+
+The fact table uses a surrogate SalesKey and follows:
+
+1 row = 1 transaction line
+
+Warehouse Validation
+
+The final warehouse achieved:
+
+Foreign-key validation: PASS
+
+Fact grain validation: PASS
+
+Missing foreign keys: 0
+
+Invalid quantities: 0
+
+Invalid prices: 0
+
+Missing revenue: 0
+
+Revenue reconciliation: PASS
+
+Source and warehouse revenue were both:
+
+17,685,460.64
+
+with a difference of:
+
+0.00
+
+SQL Analytics
+
+The project applies:
+
+SQL aggregation
+
+CTE
+
+Window Functions
+
+Ranking
+
+Customer contribution analysis
+
+Pareto analysis
+
+Monthly revenue analysis
+
+Country performance
+
+Product performance
+
+Customer frequency analysis
+
+Revenue growth analysis
+
+Key Results
+
+Total orders: 36,969
+
+Total customers: 5,878
+
+Total products: 4,631
+
+Total units sold: 1,067,581
+
+Average order value: 478.39
+
+Revenue per customer: 3,008.75
+
+United Kingdom revenue share: 82.93%
+
+Customers required to reach approximately 80% of revenue: 22.93%
+
+Customer-frequency analysis identified:
+
+One-Time Customers: 1,623
+
+Repeat Customers: 2,094
+
+Frequent Customers: 1,285
+
+Loyal Customers: 876
+
+Business Application
+
+The warehouse and analytics layer can support executive reporting, revenue monitoring, customer analysis, product analysis, geographic analysis, BI dashboards, and reusable downstream analytics.
+
+20 — Market Basket Analysis & Cross-Sell Intelligence
+
+Market Basket Analysis project designed to discover product relationships and translate them into cross-selling recommendations.
+
+The project focuses on:
+
+Transaction Data
+      ↓
+Basket Construction
+      ↓
+Frequent Itemsets
+      ↓
+Association Rules
+      ↓
+Cross-Sell Recommendations
+      ↓
+Opportunity Ranking
+      ↓
+Impact Simulation
+
+Main Components
+
+Transaction preparation
+
+Basket construction
+
+Product frequency analysis
+
+Sparse transaction-product matrix
+
+FP-Growth
+
+Frequent itemset mining
+
+Association rule mining
+
+Support
+
+Confidence
+
+Lift
+
+Leverage
+
+Conviction
+
+Cross-sell recommendation
+
+Product opportunity ranking
+
+Scenario-based impact simulation
+
+Basket Construction
+
+The analysis started with:
+
+1,067,371 raw transaction records
+
+793,669 transaction lines
+
+36,969 transactions
+
+5,878 customers
+
+4,631 products
+
+After rare-product filtering using 0.50% minimum transaction support:
+
+Products before filtering: 4,631
+
+Products after filtering: 1,180
+
+Transactions represented in the filtered basket matrix: 35,916
+
+Basket matrix density: approximately 1.38%
+
+Frequent Itemsets
+
+Using FP-Growth with:
+
+Minimum support: 1.00%
+
+Maximum itemset length: 3
+
+The analysis identified:
+
+Itemset Type
+
+Count
+
+Single Products
+
+574
+
+Product Pairs
+
+271
+
+Product Triplets
+
+54
+
+Total Frequent Itemsets
+
+899
+
+Association Rules
+
+The initial association-rule analysis generated:
+
+844 rules
+
+741 meaningful rules
+
+with thresholds of:
+
+Support ≥ 0.50%
+
+Confidence ≥ 20.00%
+
+Lift ≥ 1.20
+
+Rule statistics included:
+
+Average support: 1.35%
+
+Average confidence: 40.31%
+
+Average lift: 11.61
+
+Maximum lift: 53.64
+
+Maximum confidence: 89.59%
+
+Example Strong Association
+
+A strong relationship was identified between:
+
+PINK REGENCY TEACUP AND SAUCER
+        ↓
+GREEN REGENCY TEACUP AND SAUCER
+
+with approximately:
+
+Support: 1.77%
+
+Confidence: 84.11%
+
+Lift: 31.93
+
+The project emphasizes that high lift should not be interpreted alone and should be evaluated together with support, confidence, transaction frequency, and business relevance.
+
+Cross-Sell Recommendation Engine
+
+The recommendation layer evaluates one-to-one product relationships.
+
+The notebook produced:
+
+1,191 one-to-one recommendation rules
+
+174 products with outgoing recommendations
+
+162 products receiving recommendations
+
+An internal prioritization score combines:
+
+Confidence
+×
+log(1 + Lift)
+×
+√Support
+
+This score is used only for business prioritization and is not a standard association-rule metric.
+
+Cross-Sell Impact Simulation
+
+Three hypothetical response scenarios were evaluated:
+
+Scenario
+
+Response Assumption
+
+Estimated Conversions
+
+Estimated Incremental Revenue
+
+Conservative
+
+5%
+
+10,502
+
+290,052.18
+
+Base
+
+10%
+
+21,003
+
+580,104.35
+
+Optimistic
+
+20%
+
+42,007
+
+1,160,208.70
+
+The strongest product-level expected cross-sell revenue opportunity was:
+
+WHITE HANGING HEART T-LIGHT HOLDER — 69,991.89
+
+These impact figures are scenario-based estimates, not causal estimates or guaranteed revenue.
+
+Business Application
+
+The recommendation framework can support product bundling, checkout recommendations, cross-selling, promotional campaigns, personalized product recommendations, and merchandising decisions.
+
 Learning Progression
 
-The projects represent a progression from fundamental analytics toward advanced machine learning, customer analytics, data management, and data observability.
+The 20 projects represent a progression from fundamental analytics toward predictive data science, customer intelligence, data management, data engineering, and business-oriented decision making.
 
 Exploratory Data Analysis
         ↓
@@ -758,9 +1701,16 @@ Uplift Modeling
 Data Quality & Anomaly Detection
         ↓
 Data Drift & Data Observability
+        ↓
+Customer Lifetime Value
+        ↓
+ETL & Data Warehousing
+        ↓
+Market Basket Analysis & Cross-Sell Intelligence
+
 Portfolio Focus
 
-My portfolio currently focuses on three major areas:
+My portfolio currently focuses on four connected areas:
 
 Data Analytics
 
@@ -774,6 +1724,10 @@ Data Management & Data Observability
 
 Assessing data quality, detecting anomalies, monitoring distribution drift, prioritizing data issues, and designing proactive data monitoring workflows.
 
+Data Engineering & Business Intelligence
+
+Designing ETL pipelines, analytical data warehouses, dimensional models, SQL analytics, customer value models, and cross-selling intelligence.
+
 Current Direction
 
 My current portfolio direction focuses on combining:
@@ -784,13 +1738,16 @@ Machine Learning
 +
 Data Management
 +
+Data Engineering
++
 Data Observability
 +
 Business Decision Making
 
-The goal is not only to build predictive models, but also to understand how data is prepared, validated, monitored, interpreted, and transformed into practical decisions.
+The goal is not only to build predictive models, but also to understand how data is prepared, validated, transformed, stored, monitored, analyzed, and translated into practical decisions.
 
 Repository Structure
+
 Fathih-Data-Portfolio/
 │
 ├── 01-student-performance/
@@ -810,10 +1767,14 @@ Fathih-Data-Portfolio/
 ├── 15-marketing-uplift-modeling/
 ├── 16-financial-data-quality/
 ├── 17-financial-data-drift-monitoring/
+├── 18-customer-lifetime-value/
+├── 19-end-to-end-retail-etl-analytics/
+├── 20-market-basket-cross-sell/
 │
 └── README.md
+
 About This Portfolio
 
-This repository is continuously developed as a record of my learning and experimentation in data analysis, machine learning, data management, and data-driven problem solving.
+This repository is continuously developed as a record of my learning and experimentation in data analysis, machine learning, data management, data engineering, and data-driven problem solving.
 
-Each project is designed to strengthen both technical capabilities and the ability to translate analytical results into practical insights.
+Each project is designed to strengthen both technical capabilities and the ability to translate analytical results into practical insights. Across the 20 projects, the portfolio moves from foundational analytics to predictive modeling, customer intelligence, data quality, data observability, ETL and warehousing, and actionable business intelligence.
